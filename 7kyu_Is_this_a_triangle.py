@@ -5,7 +5,4 @@ def is_triangle(a,b,c):
     values_list  = [a, b, c]
     values_list.sort()
 
-    if (values_list[0] + values_list[1]) > values_list[2]:
-        return(True)
-
-    return(False)
+    return((values_list[0] + values_list[1]) > values_list[2])
