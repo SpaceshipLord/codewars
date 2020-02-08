@@ -1,4 +1,4 @@
-#link: 
+#link: https://www.codewars.com/kata/55ca43fb05c5f2f97f0000fd
 
 def list_animals(animals):
     list = ''
