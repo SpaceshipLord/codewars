@@ -1,3 +1,5 @@
+# link: https://www.codewars.com/kata/59b06d83cf33953dbb000010
+
 import numpy
 
 def is_centered(arr, n):
